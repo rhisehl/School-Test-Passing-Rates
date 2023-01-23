@@ -1,4 +1,4 @@
-# pandas-challenge
+# School Test Passing Rates
 
 Two large files containing data on school math and reading test scores were merged and analyzed to determine what trends may account for schools' test scores. Several calculations were completed once the data was cleaned to tease out deeper-level comparisons. 
 
